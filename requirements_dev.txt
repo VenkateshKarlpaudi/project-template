@@ -3,4 +3,6 @@ pandas
 notebook
 matplotlib
 mkdocs-materials
+
+# dev requirements 
 -e .
